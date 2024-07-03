@@ -21,7 +21,6 @@ I love turning ideas into reality through my projects. Here are a few highlights
 ### Let's Connect
 
 I'm always open to collaborating on exciting projects and learning from fellow developers. Feel free to reach out to me through LinkedIn or Twitter. Let's build something amazing together!
-- 👋 Hi, I’m @yullu
 - 👀 I’m interested in web development, php development
 - 🌱 I’m currently learning moodle development, 
 - 💞️ I’m looking to collaborate on ...
