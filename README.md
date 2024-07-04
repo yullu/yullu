@@ -1,3 +1,15 @@
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ## About Me
 
 👋I'm Eric Yullu, a passionate software developer with a love for creating innovative and efficient solutions through code. My journey in software development began with a curiosity for how things work and a desire to build something impactful.
@@ -25,6 +37,7 @@ I'm always open to collaborating on exciting projects and learning from fellow d
 - 🌱 I’m currently learning moodle development, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+### Languages
 
 <!---
 yullu/yullu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
